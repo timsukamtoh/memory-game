@@ -1,9 +1,41 @@
 /* you can add to or change this. */
 
-#game div {
+#game button {
   border: 1px solid black;
   width: 100px;
   height: 100px;
   margin: 20px;
   display: inline-block;
+}
+
+.red.active{
+  background-color: red;
+}
+.blue.active{
+  background-color: blue;
+}
+.green.active{
+  background-color: green;
+}
+.orange.active{
+  background-color: orange;
+}
+.purple.active{
+  background-color: purple;
+}
+
+.red.set{
+  background-color: red;
+}
+.blue.set{
+  background-color: blue;
+}
+.green.set{
+  background-color: green;
+}
+.orange.set{
+  background-color: orange;
+}
+.purple.set{
+  background-color: purple;
 }
